@@ -1,0 +1,44 @@
+.profile-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* .profile-avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-image: url('profile-avatar.jpg'); /* Replace with actual image URL */
+    /* background-size: cover;
+    background-position: center;
+    margin-bottom: 20px;
+  } */
+
+  .profile-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .profile-description {
+    font-size: 16px;
+    color: #777;
+    margin-bottom: 20px;
+  }
+  
+  .profile-links {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .profile-link {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .profile-link:hover {
+    text-decoration: underline;
+  }
